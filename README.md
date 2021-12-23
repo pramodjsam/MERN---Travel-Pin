@@ -52,7 +52,7 @@ npm run start
 ![main](./screenshots/main.png "main")
 
 ##### Detail page
-![chat](./screenshots/detail.png "Country chat")
+![Detail](./screenshots/detail.png "Detail")
 
 ## Development
 
